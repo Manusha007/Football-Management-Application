@@ -1,0 +1,69 @@
+
+J
+java:S1604T"(Make this anonymous inner class a lambda(ÃÚĞøÿÿÿÿ8¡ÊÀì.
+Q
+java:S3740$"/Provide the parametrized type for this generic.(ºÉ—¦ıÿÿÿÿ8¡ÊÀì.
+Q
+java:S3740."/Provide the parametrized type for this generic.(ƒ¾Ö€üÿÿÿÿ8¡ÊÀì.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğï—×ûÿÿÿÿ8¡ÊÀì.
+?
+java:S1116Â"Remove this empty statement.(ôŸìúÿÿÿÿ8¡ÊÀì.
+v
+java:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğåâø8¡ÊÀì.
+J
+java:S1604r"(Make this anonymous inner class a lambda(ÿêêúÿÿÿÿ8¡ÊÀì.
+Q
+java:S3740$"/Provide the parametrized type for this generic.(ºÉ—¦ıÿÿÿÿ8¡ÊÀì.
+J
+java:S1604c"(Make this anonymous inner class a lambda(ó¯€Öúÿÿÿÿ8¡ÊÀì.
+J
+java:S1604E"(Make this anonymous inner class a lambda(ñ•ä¥üÿÿÿÿ8¡ÊÀì.
+L
+java:S3740 "/Provide the parametrized type for this generic.(ë·ÀØ8¡ÊÀì.
+Q
+java:S37408"/Provide the parametrized type for this generic.(ƒé¯†üÿÿÿÿ8¡ÊÀì.
+Q
+java:S3740<"/Provide the parametrized type for this generic.(Õ×¬äıÿÿÿÿ8¡ÊÀì.
+Q
+java:S3740*"/Provide the parametrized type for this generic.(ì›òşÿÿÿÿ8¡ÊÀì.
+Q
+java:S3740*"/Provide the parametrized type for this generic.(ì›òşÿÿÿÿ8¡ÊÀì.
+Q
+java:S3740,"/Provide the parametrized type for this generic.(®é‡ıÿÿÿÿ8¡ÊÀì.
+Q
+java:S3740,"/Provide the parametrized type for this generic.(®é‡ıÿÿÿÿ8¡ÊÀì.
+L
+java:S3740&"/Provide the parametrized type for this generic.(Ä®ØÇ8¡ÊÀì.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(‚è¤í8¡ÊÀì.
+Q
+java:S3740""/Provide the parametrized type for this generic.(ì×¯µüÿÿÿÿ8¡ÊÀì.
+F
+java:S1604ƒ"(Make this anonymous inner class a lambda(§¡×‚8¡ÊÀì.
+Q
+java:S3740""/Provide the parametrized type for this generic.(ì×¯µüÿÿÿÿ8¡ÊÀì.
+Q
+java:S3740<"/Provide the parametrized type for this generic.(Õ×¬äıÿÿÿÿ8¡ÊÀì.
+[
+java:S1197Æ"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8¡ÊÀì.
+Q
+java:S3740."/Provide the parametrized type for this generic.(ƒ¾Ö€üÿÿÿÿ8¡ÊÀì.
+L
+java:S3740&"/Provide the parametrized type for this generic.(Ä®ØÇ8¡ÊÀì.
+F
+java:S1604œ"(Make this anonymous inner class a lambda(ıâã8¡ÊÀì.
+L
+java:S3740 "/Provide the parametrized type for this generic.(ë·ÀØ8¡ÊÀì.
+Q
+java:S3740("/Provide the parametrized type for this generic.(¥ÎÁºıÿÿÿÿ8¡ÊÀì.
+Q
+java:S37408"/Provide the parametrized type for this generic.(ƒé¯†üÿÿÿÿ8¡ÊÀì.
+K
+java:S1604"(Make this anonymous inner class a lambda(Ÿ†àúÿÿÿÿ8¡ÊÀì.
+K
+java:S3740:"/Provide the parametrized type for this generic.(€å e8¡ÊÀì.
+K
+java:S3740:"/Provide the parametrized type for this generic.(€å e8¡ÊÀì.
+Q
+java:S3740("/Provide the parametrized type for this generic.(¥ÎÁºıÿÿÿÿ8¡ÊÀì.

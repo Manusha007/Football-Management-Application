@@ -1,0 +1,39 @@
+
+q	java:S116"URename this field "NumOfDraws" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½´Ş­8¤ÊäÀì.
+V
+java:S4973S"9Use the "equals" method if value comparison was intended.(®½÷³8ÖÁÀì.
+Y
+java:S1444M"7Make this "public static Points_Comparator" field final(¹„ë’ûÿÿÿÿ8Ï‹„Áì.
+[
+java:S4973u"9Use the "equals" method if value comparison was intended.(ÀÑ¶üûÿÿÿÿ8ÖÁÀì.
+X
+java:S1444^"6Make this "public static Goals_Comparator" field final(éŒÆüÿÿÿÿ8÷›‰Áì.
+R
+java:S1444o"5Make this "public static Wins_Comparator" field final(Êïı¹8ÍıŠÁì.
+J
+java:S1604^"(Make this anonymous inner class a lambda(éŒÆüÿÿÿÿ8ÖÁÀì.
+E
+java:S1604o"(Make this anonymous inner class a lambda(Êïı¹8ÖÁÀì.
+~
+java:S3008M"\Rename this field "Points_Comparator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹„ë’ûÿÿÿÿ8Ï‹„Áì.
+y	java:S116"]Rename this field "NumOfReceivedGoals" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼‰ßÅ8ÃÆ÷Àì.
+}
+java:S3008^"[Rename this field "Goals_Comparator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éŒÆüÿÿÿÿ8÷›‰Áì.
+p	java:S116"TRename this field "NumOfWins" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ôƒ8ğìÔÀì.
+s	java:S116	"WRename this field "NumOfDefeats" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò•Šğ8ó·îÀì.
+J
+java:S1604M"(Make this anonymous inner class a lambda(¹„ë’ûÿÿÿÿ8ÖÁÀì.
+x	java:S116
+"WRename this field "NumOfMatches" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ™ÕÏúÿÿÿÿ8ÜøğÀì.
+
+java:S1104M"]Make Points_Comparator a static final constant or non-public and provide accessors if needed.(¹„ë’ûÿÿÿÿ8Ï‹„Áì.
+|	java:S116"[Rename this field "NumOfScoredGoals" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òò¹îşÿÿÿÿ8âõÀì.
+~
+java:S1104^"\Make Goals_Comparator a static final constant or non-public and provide accessors if needed.(éŒÆüÿÿÿÿ8÷›‰Áì.
+w
+java:S3008o"ZRename this field "Wins_Comparator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êïı¹8ÍıŠÁì.
+w	java:S116"VRename this field "NumOfPoints" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É–˜«øÿÿÿÿ8†ìóÀì.
+x
+java:S1104o"[Make Wins_Comparator a static final constant or non-public and provide accessors if needed.(Êïı¹8ÍıŠÁì.
+V
+java:S4973d"9Use the "equals" method if value comparison was intended.(ÈÍü½8ÖÁÀì.
